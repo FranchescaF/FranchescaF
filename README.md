@@ -36,9 +36,11 @@ Graduate in Engineering (B1 English level), currently specializing as a Full Sta
 <h2 align="center">📫 Find me on</h2>
 
 <p align="center">
-<a href="www.linkedin.com/in/franchesca-zelaya"><img src="https://img.shields.io/badge/-LINKEDIN%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:fatimapolgar2001@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/fatimazelayac/"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/franchesca-zelaya" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:fatimapolgar2001@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/fatimazelayac/"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <h2 align="center">⚙️ GitHub Analytics</h2>
