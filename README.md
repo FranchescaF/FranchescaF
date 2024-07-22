@@ -36,7 +36,7 @@ Graduate in Engineering (B1 English level), currently specializing as a Full Sta
 <h2 align="center">📫 Find me on</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/franchesca-zelaya" target="_blank">
+  <a href="https://linkedin.com/in/franchesca-zelaya" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="mailto:fatimapolgar2001@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
