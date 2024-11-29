@@ -3,7 +3,7 @@ Franchesca Zelaya</a></h1>
 
 ### :octocat: About Me
 
-Graduate in Engineering (B1 English level), currently specializing as a Full Stack Developer to create and optimize interactive websites that are functional and intuitive. I am persistent and self-taught, with the ability to work in a team and under pressure. Fascinated by programming and solutions, I decided to develop prototypes using HTML, CSS, and JS through user-centered projects. As a technology enthusiast, I can work independently and in a team, am resourceful in problem-solving, and am self-taught.
+Graduate in Engineering (B1 English level), currently specializing as a Full Stack Developer to create and optimize interactive websites that are functional and intuitive. I am persistent and self-taught, with the ability to work in a team and under pressure. Fascinated by programming and solutions, I decided to develop prototypes using HTML, CSS, and JS through user-centered projects. As a technology enthusiast, I can work independently and in a team, I am resourceful in problem-solving, and I am self-taught.
 
 
 ### 🌟 Highlights
