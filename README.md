@@ -40,16 +40,6 @@ Graduate in Engineering (B1 English level), currently specializing as a Full Sta
   <a href="https://vercel.com/">
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   </a>
-
-<!-- WordPress -->
-  <a href="https://wordpress.com/">
-    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
-  </a>
-
-<!-- Figma -->
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  </a>
 <p>
  
 <h2 align="center">📫 Find me on</h2>
