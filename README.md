@@ -31,6 +31,25 @@ Graduate in Engineering (B1 English level), currently specializing as a Full Sta
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E" alt="Python"/>
+  <!-- GitHub Pages -->
+  <a href="https://pages.github.com/">
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
+  </a>
+
+<!-- Vercel -->
+  <a href="https://vercel.com/">
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  </a>
+
+<!-- WordPress -->
+  <a href="https://wordpress.com/">
+    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
+  </a>
+
+<!-- Figma -->
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  </a>
 <p>
  
 <h2 align="center">📫 Find me on</h2>
