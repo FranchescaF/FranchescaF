@@ -17,6 +17,7 @@ Graduate in Engineering (B1 English level), currently specializing as a Full Sta
   
 ### 📚 Education
 
+- **Maestría en Ingeniería de Software** | Universidad Continental |  Mayo 2025 - Octubre 2027
 - **Web Developer** | Laboratoria Bootcamp | May - October 2024
 - **Web Developer** | TripleTen Bootcamp | July 2023 - October 2024
 - **Textile Engineering** | Universidad Nacional Mayor de San Marcos | March 2018 - December 2022
