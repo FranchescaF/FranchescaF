@@ -1,63 +1,79 @@
-<h1 align="center">Hi 👋, I'm 
-Franchesca Zelaya</a></h1>
+<h1 align="center">Hi 👋, I'm Franchesca Zelaya</h1>
+<h3 align="center">Full Stack Developer & Software Engineering Master's Student</h3>
 
-### :octocat: About Me
+<p align="center">
+  Building scalable web applications, integrating AI, and participating in tech hackathons.
+</p>
 
-Graduate in Engineering (B1 English level), currently specializing as a Full Stack Developer to create and optimize interactive websites that are functional and intuitive. I am persistent and self-taught, with the ability to work in a team and under pressure. Fascinated by programming and solutions, I decided to develop prototypes using HTML, CSS, and JS through user-centered projects. As a technology enthusiast, I can work independently and in a team, I am resourceful in problem-solving, and I am self-taught.
+---
 
+### 👩‍💻 About Me
+
+I am a Full Stack Developer based in Peru, focused on the modern web ecosystem. Combining my analytical engineering background with my passion for code, I specialize in building user-centric, high-performance applications using React, Typescript, and JavaScript. I am persistent, thrive under pressure, and constantly seek out new challenges—from integrating AI APIs to building cloud data pipelines.
 
 ### 🌟 Highlights
 
-- 🔭 I am currently working on Kdrama Dataverse, a SPA that visualizes, filters, sorts, calculates metrics, and offers interaction via chat by connecting to the OpenAI API.
-- 🌱 I am learning route rendering and code refactoring in JavaScript.
-- 🤝 I am looking to collaborate on front-end projects and innovative web pages.
-- 🤔 I am looking for help with expanding my knowledge of advanced JavaScript and React.
-- 💬 Ask me about web development, CSS designs, and JavaScript solutions.
-- 💜 Fun fact: I enjoy watching Asian series, I am a cat lover, and I love playing video games.
-  
+- 🔭 **I am currently working on:** Collaborating on the **ChecaBien** frontend platform and building my upgraded portfolio in Next.js.
+- 🏆 **Recent Milestones:** Participated in the **Microsoft "Del Dato a la Acción" Hackathon** (building an end-to-end data pipeline in Azure/Fabric) and the **She Ships Global Hackathon** (developing the *She Builds* platform).
+- 🌱 **I am currently learning:** Advanced Cloud Architectures (Azure) and Next.js optimization.
+- 🤝 **I am looking to collaborate on:** Innovative Full Stack web applications and competitive tech hackathons.
+- 💬 **Ask me about:** React/JavaScript development, frontend performance, and API integrations (OpenAI/Gemini).
+- 💜 **Fun fact:** When I'm not coding, I stream video games as a VTuber (**Gatimixx** on Twitch, Kick, and TikTok!), and I love spending time with my three cats: Alegría, Mateo and Sprite. 🐾
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+
+---
+
 ### 📚 Education
 
-- **Maestría en Ingeniería de Software** | Universidad Continental |  Mayo 2025 - Octubre 2027
-- **Web Developer** | Laboratoria Bootcamp | May - October 2024
-- **Web Developer** | TripleTen Bootcamp | July 2023 - October 2024
-- **Textile Engineering** | Universidad Nacional Mayor de San Marcos | March 2018 - December 2022
+- **Master in Software Engineering** | *Universidad Continental* | May 2025 - October 2027
+- **Web Developer** | *Laboratoria Bootcamp* | May - October 2024
+- **Web Developer** | *TripleTen Bootcamp* | July 2023 - October 2024
+- **Textile & Confectionery Engineering** | *Universidad Nacional Mayor de San Marcos* | March 2018 - December 2022
 
-<h2 align="center">🛠️ Languages and Tools</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E" alt="Python"/>
-  <!-- GitHub Pages -->
-  <a href="https://pages.github.com/">
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
-  </a>
-
-<!-- Vercel -->
-  <a href="https://vercel.com/">
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  </a>
-<p>
- 
-<h2 align="center">📫 Find me on</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/franchesca-zelaya" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="mailto:fatimapolgar2001@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/fatimazelayac/"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
+---
 
 <h2 align="center">⚙️ GitHub Analytics</h2>
 
 <p align="center">
-<a href="https://github.com/FranchescaF">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranchescaF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranchescaF&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/FranchescaF">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranchescaF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranchescaF&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<h2 align="center">📫 Let's Connect!</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/franchesca-zelaya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fatimapolgar2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitch.tv/gatimixx" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+  </a>
 </p>
